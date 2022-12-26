@@ -1,3 +1,9 @@
 [submodule "Pertemuan_1"]
 	path = Pertemuan_1
 	url = https://github.com/u-rated/TPM-Pertemuan-1
+[submodule "Pertemuan_2"]
+	path = Pertemuan_2
+	url = https://github.com/u-rated/TPM-Pertemuan-2
+[submodule "Pertemuan_3"]
+	path = Pertemuan_3
+	url = https://github.com/u-rated/TPM-Pertemuan-3
